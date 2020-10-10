@@ -8,7 +8,7 @@ Researcher and insights seeker who continuously expanding knowledge in behaviora
 
 <br><b><u>WORK EXPERIENCE</u></b>
 <br><b>YouGov</b>, Jakarta, Indonesia
-<br><i>Market Research<i> | Junior Research Executive</i>
+<br><i>Market Research | Junior Research Executive</i>
 <br>Dec 2018 - present
 <br> •	An omnibus research-type coordinator and have managed to shorten the timeline to increase fast as selling point
 <br> •	Manage and conduct research from questionnaire design, field working and data analysis stage to deliver top line and dashboard to client
@@ -27,15 +27,19 @@ Researcher and insights seeker who continuously expanding knowledge in behaviora
 <table>
   <tr>
     <th>Language</th>
-    <th>Software</th>
-    <th>Interpersonal</th>
-    <th>Research</th>
+        <td>English (fluent), Bahasa Indonesia (native)	</td>
   </tr>
   <tr>
-    <td>English (fluent), Bahasa Indonesia (native)	</td>
-    <td>Microsoft Excel, SPSS, JASP, Jira, Confluence, Crunch.io, Power BI, Gryphon, Python 3 </td>
-    <td>Public speaking, ad-hoc team leader	</td>
-    <td>Brand exceptional analysis, importance analysis, general linear model, correlation, regression model, qualitative content analysis, qualitative thematic analysis </td>
+    <th>Software</th>
+        <td>Microsoft Excel, SPSS, JASP, Jira, Confluence, Crunch.io, Power BI, Gryphon, Python 3 </td>
+  </tr>
+  <tr>
+    <th>Interpersonal</th>
+        <td>Public speaking, ad-hoc team leader	</td>
+  </tr>
+  <tr>
+    <th>Research</th>
+      <td>Brand exceptional analysis, importance analysis, general linear model, correlation, regression model, qualitative content analysis, qualitative thematic analysis </td> 
   </tr>
 </table>
 <br>
