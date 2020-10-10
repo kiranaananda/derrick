@@ -18,13 +18,13 @@ Researcher and insights seeker who continuously expanding knowledge in behaviora
 <li>Create pager / infographics to support business development team</li>
 <li>Field of research that has been conducted covers brand health, NPS, product test, campaign evaluation, profile study in over 20+ projects from various sectors i.e. FMCG, bank / fin-tech, e-commerce, marketing agency and telemedicine</li>
 </ul>
-<br>
+
 <br><b><u>VOLUNTEER EXPERIENCE</u></b>
 <br><b>Perhimpunan Riset Pasar Indonesia (PERPI)</b>, Jakarta, Indonesia  
 <br><i>Indonesia Market Behavior Outlook 2020 | Analyst</i>
 <br>Sep 2019 – Feb 2020
 <br>Create questionnaire design and deck analysis for outlook study. Also, presenting a topic of mobility ecosystem.
-<br>
+
 <br><b><u>SKILLS</u></b>
 <table>
   <tr>
@@ -44,7 +44,7 @@ Researcher and insights seeker who continuously expanding knowledge in behaviora
       <td>Brand exceptional analysis, importance analysis, general linear model, correlation, regression model, qualitative content analysis, qualitative thematic analysis </td> 
   </tr>
 </table>
-<br>
+
 <br><b><u>EDUCATION</u></b>
 <br>Bachelor of Psychology, 2014-2018, GPA:  3.89 of 4.00 (cum laude)
 <br>Universitas Gadjah Mada, Yogyakarta, Indonesia
