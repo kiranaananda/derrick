@@ -2,19 +2,26 @@
 layout: page
 title: About
 permalink: /about/
-image: '/assets/img/01.jpg'
+image: ''
 ---
 
-Hi, my name is Derrick Wells. I like being at the center of events, being free and enjoying every moment. Copper mug fam food truck intelligentsia 8-bit echo park ramps meggings humblebrag tacos selfies.
+Researcher and insights seeker who continuously expanding knowledge in behavioral and market research with almost 2 years of experience in data-driven problem solving and project management. I am skilled in quantitative methodology and I thrive in environments where I can explore more in analytics and being self-starter.
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity.
+<b>WORK EXPERIENCE</b>
+<b>YouGov</b>, Jakarta, Indonesia
+<i>Market Research<i> | Junior Research Executive
+Dec 2018 - present
 
 ***
 
-> Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution.
+> 
+•	An omnibus research-type coordinator and have managed to shorten the timeline to increase fast as selling point
+•	Manage and conduct research from questionnaire design, field working and data analysis stage to deliver top line and dashboard to client
+•	Create brand health report and have handled 5+ reports of ad-hoc and tracking report, mainly for FMCG and e-commerce
+•	Collaborate with marketing team to conduct multi-country study in APAC
+•	Create pager / infographics to support business development team
+•	Field of research that has been conducted covers brand health, NPS, product test, campaign evaluation, profile study in over 20+ projects from various sectors i.e. FMCG, bank / fin-tech, e-commerce, marketing agency and telemedicine
+
 
 ***
 
-Proactively envisioned multimedia based expertise and cross-media growth strategies. Seamlessly visualize quality intellectual capital without superior collaboration and idea-sharing. Holistically pontificate installed base portals after maintainable products.
-
-Phosfluorescently engage worldwide methodologies with web-enabled technology. Interactively coordinate proactive e-commerce via process-centric "outside the box" thinking. Completely pursue scalable customer service through sustainable potentialities.
