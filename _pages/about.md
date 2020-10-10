@@ -2,7 +2,6 @@
 layout: page
 title: About
 permalink: /about/
-image: ''
 ---
 
 Researcher and insights seeker who continuously expanding knowledge in behavioral and market research with almost 2 years of experience in data-driven problem solving and project management. I am skilled in quantitative methodology and I thrive in environments where I can explore more in analytics and being self-starter.
