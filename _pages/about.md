@@ -21,7 +21,7 @@ Researcher and insights seeker who continuously expanding knowledge in behaviora
 
 <br><b><u>VOLUNTEER EXPERIENCE</u></b>
 <br><b>Perhimpunan Riset Pasar Indonesia (PERPI)</b>, Jakarta, Indonesia  
-<br><i>Indonesia Market Behavior Outlook 2020 | Analyst</i>
+<i>Indonesia Market Behavior Outlook 2020 | Analyst</i>
 <br>Sep 2019 – Feb 2020
 <ul>
 <li>Create questionnaire design and deck analysis for outlook study. </li>
