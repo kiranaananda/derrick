@@ -41,7 +41,7 @@ Researcher and insights seeker who continuously expanding knowledge in behaviora
   </tr>
   <tr>
     <th>Research</th>
-      <td>Brand exceptional analysis, importance analysis, general linear model, correlation, regression model, qualitative content analysis, qualitative thematic analysis </td> 
+        <td>Brand exceptional analysis, importance analysis, general linear model, correlation, regression model, qualitative content analysis, qualitative thematic analysis </td> 
   </tr>
 </table>
 
