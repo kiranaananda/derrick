@@ -23,7 +23,10 @@ Researcher and insights seeker who continuously expanding knowledge in behaviora
 <br><b>Perhimpunan Riset Pasar Indonesia (PERPI)</b>, Jakarta, Indonesia  
 <br><i>Indonesia Market Behavior Outlook 2020 | Analyst</i>
 <br>Sep 2019 – Feb 2020
-<br>Create questionnaire design and deck analysis for outlook study. Also, presenting a topic of mobility ecosystem.
+<ul>
+<li>Create questionnaire design and deck analysis for outlook study. </li>
+<li>Presenting a topic of mobility ecosystem.</li>
+</ul>
 
 <br><b><u>SKILLS</u></b>
 <table>
