@@ -3,7 +3,7 @@
 }
 
 body {
-  font-family: 'Heebo', sans-serif;
+  font-family: 'Noto Sans', sans-serif;
   font-size: 16px;
   color: $dark;
   background-color: #fff;
@@ -37,7 +37,7 @@ h4,
 h5,
 h6 {
   margin: 45px 0 30px;
-  font-family: 'Heebo', sans-serif;
+  font-family: 'Noto Sans', sans-serif;
   line-height: initial;
   font-weight: 400;
   letter-spacing: 0.1px;
@@ -69,7 +69,7 @@ h6 {
 
 blockquote {
   padding-left: 30px;
-  font-family: 'Heebo', sans-serif;
+  font-family: 'Noto Sans', sans-serif;
   font-weight: 400;
   font-style: italic;
   font-size: 18px;
@@ -113,8 +113,8 @@ a {
 
 hr {
   display: block;
-  width: auto;
-  height: auto;
+  width: 6px;
+  height: 6px;
   margin: 45px auto;
   border-radius: 50%;
   border: 0;
