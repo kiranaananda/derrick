@@ -28,7 +28,7 @@ Researcher and insights seeker who continuously expanding knowledge in behaviora
 <br><b><u>SKILLS</u></b>
 <table>
   <tr>
-    <th><left>Language</th>
+    <th>Language</th>
         <td>English (fluent), Bahasa Indonesia (native)	</td>
   </tr>
   <tr>
