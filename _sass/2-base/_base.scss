@@ -121,3 +121,9 @@ hr {
   padding: 8px;
   background: $secondary-color;
 }
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
